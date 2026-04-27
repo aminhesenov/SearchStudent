@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2AaQRmvepc=",
+  "success": true,
+  "projectFilePath": "D:\\C#\\SearchStudent\\SearchStudent\\SearchStudent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.5\\system.configuration.configurationmanager.10.0.5.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.data.odbc\\10.0.5\\system.data.odbc.10.0.5.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.data.oledb\\10.0.5\\system.data.oledb.10.0.5.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.5\\system.diagnostics.eventlog.10.0.5.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.5\\system.diagnostics.performancecounter.10.0.5.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.5\\system.security.cryptography.protecteddata.10.0.5.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.threading.accesscontrol\\10.0.5\\system.threading.accesscontrol.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
